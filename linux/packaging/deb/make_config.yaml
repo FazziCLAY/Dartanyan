@@ -1,0 +1,32 @@
+display_name: Dartanyan
+package_name: dartanyan
+
+maintainer:
+  name: FazziCLAY
+  email: fazziclay@gmail.com
+
+priority: optional
+
+section: x11
+
+installed_size: 15700
+
+#dependencies:
+
+
+essential: false
+
+icon: linux/assets/icon.jpeg
+
+postuninstall_scripts:
+  - echo "Sorry to see you go."
+
+keywords:
+  - notes
+
+generic_name: Dartanyan
+
+categories:
+  - Notes
+
+startup_notify: true
